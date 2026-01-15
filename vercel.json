@@ -1,0 +1,9 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "framework": "react",
+  "packageManager": "npm@9",
+  "env": {
+    "SKIP_ENV_VALIDATION": "true"
+  }
+}
